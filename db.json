@@ -3,7 +3,9 @@
     "id": 1,
     "author": "Chieze-Franklin",
     "description": "A test local func install from a URL",
-    "meta": "wrong meta type",
+    "meta": {
+       "url": "https://my-json-server.typicode.com/Chieze-Franklin/json-server/funcs/1"
+    },
     "name": "local_func_from_url",
     "source": "return 1;"
   }]
