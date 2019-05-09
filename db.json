@@ -16,7 +16,7 @@
        "url": "https://my-json-server.typicode.com/Chieze-Franklin/json-server/funcs/2"
     },
     "name": "web_func_from_url",
-    "source": "https://server.com/notify/email"
+    "source": "https://server.com/notify/email",
     "type": "web"
   }]
 }
