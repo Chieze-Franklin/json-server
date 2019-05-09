@@ -8,5 +8,15 @@
     },
     "name": "local_func_from_url",
     "source": "return 1;"
+  }, {
+    "id": 2,
+    "author": "Chieze-Franklin",
+    "description": "A test web func install from a URL",
+    "meta": {
+       "url": "https://my-json-server.typicode.com/Chieze-Franklin/json-server/funcs/2"
+    },
+    "name": "web_func_from_url",
+    "source": "https://server.com/notify/email"
+    "type": "web"
   }]
 }
