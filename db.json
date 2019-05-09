@@ -1,0 +1,8 @@
+{
+  "funcs": [{
+    "id": 1,
+    "author": "Chieze-Franklin",
+    "description": "A test local func install from a URL",
+    "meta": "wrong meta type"
+  }]
+}
