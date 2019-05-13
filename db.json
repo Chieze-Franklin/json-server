@@ -37,5 +37,20 @@
        },
     },
     "source": "return (Number(options.b) > 0) || c;"
+  }, {
+    "id": 4,
+    "author": "Chieze-Franklin",
+    "description": "Checks for negative trends",
+    "meta": {
+       "url": "https://my-json-server.typicode.com/Chieze-Franklin/json-server/funcs/4"
+    },
+    "name": "local_func_from_url_with_options",
+    "parametersSchema": {
+       "count": {
+            "type": "Int",
+            "required": true
+       },
+    },
+    "source": "return (Number(args.count) > 0) || c;"
   }, ]
 }
