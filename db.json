@@ -18,7 +18,7 @@
     "name": "web_func_from_url",
     "source": "https://server.com/notify/email",
     "type": "web"
-  }{
+  }, {
     "id": 3,
     "author": "Chieze-Franklin",
     "description": "A test local func (with options) install from a URL",
