@@ -52,5 +52,5 @@
        },
     },
     "source": "let p=line.points;for(let i=0;i<count;i++){if(p[p.length-1-i]>=p[p.length-2-i]) return false;} return true;"
-  }, ]
+  }]
 }
