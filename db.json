@@ -52,5 +52,20 @@
        }
     },
     "source": "let p=line.points;for(let i=0;i<count;i++){if(p[p.length-1-i]>=p[p.length-2-i]) return false;} return true;"
+  }, {
+    "id": 5,
+    "author": "Chieze-Franklin",
+    "description": "Checks for negative trends",
+    "meta": {
+       "url": "https://my-json-server.typicode.com/Chieze-Franklin/json-server/funcs/4"
+    },
+    "name": "local_func_from_url_with_options",
+    "parametersSchema": {
+       "count": {
+            "type": "Int",
+            "required": true
+       }
+    },
+    "source": "let p=line.points;for(let i=0;i<count;i++){if(p[p.length-1-i]>=p[p.length-2-i]) return false;} return true;"
   }]
 }
